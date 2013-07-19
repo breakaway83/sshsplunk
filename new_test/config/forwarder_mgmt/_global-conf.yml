@@ -1,0 +1,9 @@
+remote-splunk-home: /home/eserv/sshsplunk
+splunk-home: /home/eserv/sshsplunk #/Users/tlee/cluster/splunk #
+ssh_user: eserv
+branch: current
+ds_host: 
+    - qa-sv-rh61x64-7.sv.splunk.com
+dc_hosts:
+    - qa-sv-rh61x64-8.sv.splunk.com
+
